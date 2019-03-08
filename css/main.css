@@ -1,0 +1,56 @@
+html, body {
+	margin: 0; padding: 0; border: none;
+	background-image: url(../img/1.jpg);
+
+}
+
+header{
+	background: white;
+	height: 80px;
+	font: bold 20px verdana, sans-serif; 
+    color:blue
+}
+
+nav{
+
+}
+
+article{
+
+}
+
+section{
+
+}
+
+aside{
+
+}
+
+footer{
+
+}
+
+.color1{
+	background-color: tomato;
+}
+
+.color2{
+	background-color: lightblue;
+}
+
+.cssicon{
+	font-size: 30px;
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
